@@ -18,9 +18,9 @@
 	Cd to directory with "gui.py" and "chromedriver.exe"
   Run the following command
 	
-	```
+  ```
   python gui.py
-	```
+  ```
   A GUI should pop up. Enter the URL with https(will not work otherwise) and type in a key search.
   Once finished, the chrome window will close and a CSV file will be generated with the name used for the search
 # Issues
