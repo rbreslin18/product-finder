@@ -8,7 +8,6 @@
   
   ```
   pip install selenium
-
   ```
   Pandas
   
