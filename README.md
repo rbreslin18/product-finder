@@ -23,7 +23,7 @@
   ```
   A GUI should pop up. Enter the URL with https(will not work otherwise) and type in a key search.
   Once finished, the chrome window will close and a CSV file will be generated with the name used for the search
-  <img src="itemfinder.jpg" alt="item finder" title="item finder example">
+  <img src="itemfinder.JPG" alt="item finder" title="item finder example">
 # Issues
   Only works with Amazon.com. Will not work on other website(hopefully will implement a feature to allow other websites)
 
